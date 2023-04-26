@@ -3,31 +3,16 @@
 
   &#xa0;
 
-  <!-- <a href="https://20230426hackathonbessgamegithub.netlify.app">Demo</a> -->
+  
 </div>
 
 <h1 align="center">Batarya Yerleştirme ve Boyutlandırma Oyunu</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/energyhack-space/20230426-hackathon-bess-game-github?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/20230426-hackathon-bess-game-github?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/20230426-hackathon-bess-game-github?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/20230426-hackathon-bess-game-github?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/20230426-hackathon-bess-game-github?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/20230426-hackathon-bess-game-github?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/20230426-hackathon-bess-game-github?color=56BEB8" /> -->
-</p>
 
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  20230426 Hackathon Bess Game Github 🚀 Under construction...  🚧
+	🚧  Batarya Yerleştirme ve Boyutlandırma Oyunu 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
