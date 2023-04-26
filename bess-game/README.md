@@ -41,7 +41,7 @@ The script also defines two classes: GraphDialog and Window. GraphDialog creates
 
 ## :sparkles: Excel Inputs ##
 
-:heavy_check_mark: h: There is electrical load information about 33 busbars. It also contains information on which bus is the feeder and the feeder's feeding capacity.\
+:heavy_check_mark: <strong>h:</strong> There is electrical load information about 33 busbars. It also contains information on which bus is the feeder and the feeder's feeding capacity.\
 :heavy_check_mark: l: This input shows between which two bars the lines are located and includes the power flow capacities in the lines.\
 :heavy_check_mark: powercurves: It shows the electricity consumption of load types for 1 day (15 minutes - 96 periods).
 
