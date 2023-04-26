@@ -77,7 +77,7 @@ $ yarn start
 
 ## :memo: License ##
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">energyhack-space</a>
+Made with :heart: by <a href="https://github.com/energyhack-space" target="_blank">energyhack-space</a>
 
 &#xa0;
 
