@@ -54,11 +54,11 @@ The function solves the power flow problem and determines how much load is fed t
 
 The script also defines two classes: GraphDialog and Window. GraphDialog creates a dialog box for displaying the graphs of the results of the simulation, while Window creates the main window for the user interface.
 
-## :sparkles: Features ##
+## :sparkles: Excel Inputs ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: h: There is electrical load information about 33 busbars. It also contains information on which bus is the feeder and the feeder's feeding capacity.;\
+:heavy_check_mark: l: This input shows between which two bars the lines are located and includes the power flow capacities in the lines.;\
+:heavy_check_mark: powercurves: It shows the electricity consumption of load types for 1 day (15 minutes - 96 periods).;
 
 ## :rocket: Technologies ##
 
