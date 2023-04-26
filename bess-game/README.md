@@ -20,11 +20,11 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Excel Inputs</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Packages</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/energyhack-space" target="_blank">Author</a>
 </p>
 
 <br>
@@ -45,7 +45,7 @@ The script also defines two classes: GraphDialog and Window. GraphDialog creates
 :heavy_check_mark: l: This input shows between which two bars the lines are located and includes the power flow capacities in the lines.\
 :heavy_check_mark: powercurves: It shows the electricity consumption of load types for 1 day (15 minutes - 96 periods).
 
-## :rocket: Technologies ##
+## :rocket: Packages ##
 
 The following tools were used in this project:
 
