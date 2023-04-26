@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Batarya Yerleştirme ve Boyutlandırma Oyunu" />
+  <img src="./.github/app.gif" alt="Battery Placement and Sizing Game" />
 
   &#xa0;
 
   
 </div>
 
-<h1 align="center">&#128267; Batarya Yerleştirme ve Boyutlandırma Oyunu &#128267;</h1>
+<h1 align="center">&#128267; Battery Placement and Sizing Game &#128267;</h1>
 
 
 <!-- Status -->
