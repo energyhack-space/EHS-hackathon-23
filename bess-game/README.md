@@ -1,15 +1,15 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="20230426 Hackathon Bess Game Github" />
+  <img src="./.github/app.gif" alt="Batarya Yerleştirme ve Boyutlandırma Oyunu" />
 
   &#xa0;
 
   <!-- <a href="https://20230426hackathonbessgamegithub.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">20230426 Hackathon Bess Game Github</h1>
+<h1 align="center">Batarya Yerleştirme ve Boyutlandırma Oyunu</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/20230426-hackathon-bess-game-github?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/energyhack-space/EHS-hackathon-23/bess-game?color=56BEB8">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/20230426-hackathon-bess-game-github?color=56BEB8">
 
