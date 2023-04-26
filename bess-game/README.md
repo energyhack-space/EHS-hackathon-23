@@ -46,7 +46,13 @@
 
 ## :dart: About ##
 
-Describe your project
+This is a Python script that defines a simulation of a power grid's resiliency. It is a simulation that determines how resilient a power grid is when faced with failure scenarios. The script uses the CVXPY optimization library to find a solution to the power flow and resiliency problem.
+
+The script defines a function called BESResiliencySimulation that takes four arguments. The first argument is failed_lines, which is a list of the lines that have failed. The second argument is P_i, which is a list of the power capacity of each bus. The third argument is E_i, which is a list of the energy capacity of the battery at each bus. The fourth argument is failed_periods, which is a list of tuples that indicate the periods of time during which a line is failed.
+
+The function solves the power flow problem and determines how much load is fed to each bus. It also determines the amount of energy stored in the battery at each bus, whether the battery is charging or discharging, and the binary values that determine if the critical loads are being fed. Finally, the function calculates the player score, which is a metric that measures how well the power grid is performing in the given scenario.
+
+The script also defines two classes: GraphDialog and Window. GraphDialog creates a dialog box for displaying the graphs of the results of the simulation, while Window creates the main window for the user interface.
 
 ## :sparkles: Features ##
 
