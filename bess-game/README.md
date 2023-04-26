@@ -6,7 +6,7 @@
   
 </div>
 
-<h1 align="center">&#128267; Batarya Yerleştirme ve Boyutlandırma Oyunu</h1>
+<h1 align="center">&#128267; Batarya Yerleştirme ve Boyutlandırma Oyunu &#128267;</h1>
 
 
 <!-- Status -->
