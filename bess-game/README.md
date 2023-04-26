@@ -47,13 +47,11 @@ The script also defines two classes: GraphDialog and Window. GraphDialog creates
 
 ## :rocket: Packages ##
 
-The following tools were used in this project:
+The following important packages were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [PyQt5](https://pypi.org/project/PyQt5/)
+- [CVXPY](https://www.cvxpy.org/)
+
 
 ## :white_check_mark: Requirements ##
 
@@ -79,10 +77,7 @@ $ yarn start
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">energyhack-space</a>
 
 &#xa0;
 
