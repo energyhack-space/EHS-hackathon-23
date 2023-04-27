@@ -46,7 +46,7 @@ The following important packages were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have <a href="(https://code.visualstudio.com/download)" target="_blank">VScode(Visual Studio Code)</a> installed.
+Before starting :checkered_flag:,you need to have <a href="https://code.visualstudio.com/download" target="_blank"> VScode(Visual Studio Code)</a> installed.
 
 ## :checkered_flag: Starting ##
 
