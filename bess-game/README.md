@@ -54,7 +54,7 @@ Before starting :checkered_flag:, you need to have <a href="https://code.visuals
 # Dowload the bess-game folder as a zip file and add it to your workspace in VScode
 $ https://github.com/energyhack-space/EHS-hackathon-23/archive/refs/heads/main.zip
 
-# create a virutal enviroment (venv)
+# Go to your terminal and create a virutal enviroment (venv)
 $ py -3 -m venv venv
 
 #activate the venv
