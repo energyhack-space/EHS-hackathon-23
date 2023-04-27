@@ -51,19 +51,20 @@ Before starting :checkered_flag:, you need to have <a href="https://code.visuals
 ## :checkered_flag: Starting ##
 
 ```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/20230426-hackathon-bess-game-github
+# Dowload the bess-game as a zip file and add it to your workspace in VScode
+$ https://github.com/energyhack-space/EHS-hackathon-23/archive/refs/heads/main.zip
 
-# Access
-$ cd 20230426-hackathon-bess-game-github
+# create a virutal enviroment (venv)
+$ py -3 -m venv venv
+
+#activate the venv
+$ venv\Scripts\activate 
 
 # Install dependencies
-$ yarn
+$ pip install -r requirements.txt
 
 # Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+$ app.py
 ```
 
 ## :memo: License ##
