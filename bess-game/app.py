@@ -107,7 +107,7 @@ class Window(QWidget):
         # Sütun genişlikleri
         table_width = self.table.width()
         self.table.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)
-        self.table.horizontalHeader().setDefaultSectionSize(table_width / self.table.columnCount())
+        self.table.horizontalHeader().setDefaultSectionSize(int(table_width / self.table.columnCount())) 
 
         # Set the table height to fit the page
         table_height = 1000
