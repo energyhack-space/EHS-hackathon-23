@@ -15,6 +15,8 @@
 	🚧  Batarya Yerleştirme ve Boyutlandırma Oyunu 🚀 Under construction...  🚧
 </h4> 
 
+<hr> -->
+
 
 <br>
 
@@ -44,24 +46,25 @@ The following important packages were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have <a href="https://code.visualstudio.com/download" target="_blank">VScode(Visual Studio Code)</a> installed.
 
 ## :checkered_flag: Starting ##
 
 ```bash
-# Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/20230426-hackathon-bess-game-github
+# Dowload the bess-game folder as a zip file and add it to your workspace in VScode
+$ https://github.com/energyhack-space/EHS-hackathon-23/archive/refs/heads/main.zip
 
-# Access
-$ cd 20230426-hackathon-bess-game-github
+# Go to your terminal and create a virutal enviroment (venv)
+$ py -3 -m venv venv
+
+#activate the venv
+$ venv\Scripts\activate 
 
 # Install dependencies
-$ yarn
+$ pip install -r requirements.txt
 
 # Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+$ app.py
 ```
 
 ## :memo: License ##

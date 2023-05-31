@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr 18 17:22:26 2023
+Created on Tue May 16 15:11:22 2023
 
 @author: SemanurSancar
 """
+
 
 
 
@@ -24,6 +25,7 @@ import datetime
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 import matplotlib.pyplot as plt
 from PyQt5.QtWidgets import QDialog, QVBoxLayout, QApplication
+import random
 
 
 
@@ -95,11 +97,15 @@ class Window(QWidget):
             for j in range(0, 2):
                 spinbox = QSpinBox(self)
                 spinbox.setRange(0, 1000)
-                spinbox.setSingleStep(5)
+                if j == 0:
+                    spinbox.setSingleStep(5)  # set singleStep to 5 for the first column
+                else:
+                    spinbox.setSingleStep(5)  # set singleStep to 10 for the second column
                 self.table.setCellWidget(i, j, spinbox)
 
+
         # Sütun isimleri
-        labels = ["BESS Power Capacity (kW)", "BESS Energy Capacity (kWh)"]
+        labels = ["BESS Power Capacity (MW)", "BESS Energy Capacity (MWh)"]
         self.table.setHorizontalHeaderLabels(labels)
 
         # Sütun genişliği
@@ -185,9 +191,14 @@ class Window(QWidget):
         # print(type(self.failed_lns.text()))
         value_list = self.failed_lns.text()
         failed_lines = [int(number)-1 for number in value_list.split(",")]
+        # failed_lines = random.sample(range(1, 33), 20)
+        # Suppose this is your list of unique random numbers
+        unique_random_numbers = random.sample(range(1, 33), 5)
+        # Subtract 1 from each element in the list
+        failed_lines = [number - 1 for number in unique_random_numbers]
         P_i = input_tb[0]
         E_i = input_tb[1]
-        failed_periods = [[2,4], [72,89]]
+        failed_periods = [[2,8], [72,89]]
         # failed_periods = [[2,4], [8,9]]
         
         # Show the "Processing" message box
